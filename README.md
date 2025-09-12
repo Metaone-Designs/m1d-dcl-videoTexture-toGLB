@@ -2,7 +2,7 @@
 
 This is a template scene for Decentraland SDK7.
 
-[![Scene Preview](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/f6fed0c9-cb40-4206-b59d-1575d68073e7.gif?ClientID=sulu&Date=1757644213&Signature=4524a1d4df5007600d80af94b8d5ece7fded18b8)](https://player.vimeo.com/progressive_redirect/playback/1117991292/rendition/720p/file.mp4?loc=external&log_user=0&signature=6896fed4d1fc7d0bd1041ab55962ec77c6503ca38914e71778d08b4b4aea6f1e)
+[![Scene Preview](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/f6fed0c9-cb40-4206-b59d-1575d68073e7.gif?ClientID=sulu&Date=1757644213&Signature=4524a1d4df5007600d80af94b8d5ece7fded18b8)]
 
 ## Try it out with Visual Studio Code
 
