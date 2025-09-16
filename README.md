@@ -13,11 +13,15 @@ This is a template scene for Decentraland SDK7.
     ```
     npm install
     ```
-5.  **Run the scene:** Start the local development server to preview the scene:
-    ```
-    npm run start
-    ```
-This will open the scene in your web browser.
+5.  **Run the scene:** To preview the scene in the Decentraland Desktop client, follow these steps:
+
+    1. Run `npm run start` in your terminal. This browser window can be closed as its not needed.
+    2. Open the following URL in your browser, which will launch the desktop client: 
+       `decentraland://realm=http//127.0.0.1:8000&local-scene=true&debug=true`
+
+    **Note:** The command `npm run start -- --explorer-alpha` is no longer supported for opening the desktop client directly.
+
+    For the latest information on previewing scenes, please refer to the [official documentation](https://docs.decentraland.org/creator/development-guide/sdk7/preview-scene/).
 
 ## Scene Assets
 
